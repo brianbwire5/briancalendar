@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Learn Laravel",
+      "day": "Friday 3:00pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Watch Football",
+      "day": "2nd October 3:00 pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Learn more javascript",
+      "day": "Friday 4:00pm",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Get good on mern stack",
+      "day": "Tuesday 3rd",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Build my portfolio",
+      "day": "Sunday 4:00pm",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "The mood",
+      "day": "Sunday 3pm",
+      "reminder": true,
+      "id": 9
+    }
+  ]
+}
