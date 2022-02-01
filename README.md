@@ -5,3 +5,5 @@ It utilises fetch api to post data on the backend d.json file, basic drud operat
 Also uses functional components which can be reused and powerful hooks to manage state
 
 ![image](https://user-images.githubusercontent.com/61404473/151965028-59edc957-885c-43aa-b86b-ed8da3151932.png)
+![image](https://user-images.githubusercontent.com/61404473/151965335-9581a723-4a06-4ace-a034-87d81a836868.png)
+
