@@ -37,10 +37,16 @@
       "id": 8
     },
     {
-      "text": "The mood",
-      "day": "Sunday 3pm",
+      "text": "Running Day",
+      "day": "27th March 2021",
       "reminder": true,
-      "id": 9
+      "id": 11
+    },
+    {
+      "text": "Practice Day",
+      "day": "Monday 4:00 pm",
+      "reminder": true,
+      "id": 12
     }
   ]
 }

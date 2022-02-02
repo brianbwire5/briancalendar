@@ -13,7 +13,7 @@ const App = () => {
   const [tasks, setTasks] = useState([])
 
   useEffect(() => {
-    const getTasks = async () =>{
+    const getTasks = async () => {
       const tasksFromServer = await fetchTasks()
       setTasks(tasksFromServer)
     }
@@ -79,7 +79,7 @@ const App = () => {
       setTasks(
         tasks.map((task) => 
         task.id === id ? {...task, reminder:
-      data.reminder } : task
+      !task.reminder } : task
       )
       )
     }
@@ -111,3 +111,8 @@ const App = () => {
 }
 
 export default App;
+
+
+
+
+
